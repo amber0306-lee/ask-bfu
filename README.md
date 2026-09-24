@@ -68,4 +68,4 @@ This is an independent community project, not an official university service. Im
 
 ---
 
-[MIT License](LICENSE) · v0.1.0
+[MIT License](LICENSE) · v0.1.1
