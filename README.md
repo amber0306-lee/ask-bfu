@@ -39,7 +39,7 @@ A source-aware BFU student Q&A skill.
 | 文件 | 作用 |
 |:--|:--|
 | [SKILL.md](skills/ask-bfu/SKILL.md) | 触发条件、问答顺序、版本判定 |
-| [source-index.md](skills/ask-bfu/references/source-index.md) | 17项校院公开文件入口、发布日期和适用范围 |
+| [source-index.md](skills/ask-bfu/references/source-index.md) | 18项校院公开文件入口、发布日期和适用范围 |
 | [funding.md](skills/ask-bfu/references/funding.md) | 旧版与2025级起研究生资助、国奖和岗位津贴 |
 | [degree.md](skills/ask-bfu/references/degree.md) | 学术博士/硕士学位成果、经管学院补充路径 |
 | [pathways.md](skills/ask-bfu/references/pathways.md) | 本科转专业/推免、硕士复试、博士招生、课程入口 |
