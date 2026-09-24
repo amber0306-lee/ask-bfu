@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ask-bfu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A bilingual, source-aware campus Q&A skill for Beijing Forestry University students, starting with the School of Economics and Management.",
   "author": {
     "name": "amber0306-lee"
