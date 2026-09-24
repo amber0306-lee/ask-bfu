@@ -23,4 +23,6 @@
 | F16 | 校《研究生课程学习管理办法》2022-03，选课/成绩/补修/重修；是否被2026新制修订须核 | [校官网 HTML](https://graduate.bjfu.edu.cn/pygl/pyzd/391854.html) | [pathways.md](pathways.md) |
 | F17 | 校研究生学位论文表格与2023版写作指南的下载入口 | [校官网页面](https://graduate.bjfu.edu.cn/xwgl/xwlw/index.html) | [degree.md](degree.md) |
 
+| F18 | 经管学院农林经济管理博士2026第二轮复试通知；仅限该轮安排 | [学院 HTML](https://em.bjfu.edu.cn/rcpy/yjsjy/tzggy/5e16bc78b26446e18a00568e85aefedd.htm) | [pathways.md](pathways.md) |
+
 更新或文件失效：先查 [研究生院奖助专栏](https://graduate.bjfu.edu.cn/yjsgzb/jzzl/index.html)、[学位制度](https://graduate.bjfu.edu.cn/xwgl/xwzd/index.html)、[学院研究生通知](https://em.bjfu.edu.cn/rcpy/yjsjy/tzggy/index.htm)、[本科生通知](https://em.bjfu.edu.cn/rcpy/bkjy/tzggb/index.htm)。来源网址属于可访问的官方文件索引，并不等于本仓库已保存原件。
