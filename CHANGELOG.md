@@ -10,4 +10,4 @@
 
 官方原件由校院网站托管，仓库收录的是可维护的带版本摘要。各专业分年级培养方案、现行本科学生手册及校园商户信息尚未完整归档；测试记录是来源对照，尚非实际安装后的模型评测。
 
-English: v0.2.0 adds versioned funding and degree rules, a 17-source index, and five manually audited rounds of ten student questions. The PDFs remain hosted by BFU.
+English: v0.2.0 adds versioned funding and degree rules, an 18-source index, and five manually audited rounds of ten student questions. The PDFs remain hosted by BFU.
