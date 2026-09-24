@@ -20,4 +20,7 @@
 | F14 | 经管学院旧版本科请假说明，2019，办理地点可能变化 | [学院 HTML](https://em.bjfu.edu.cn/xsyd/xzzx/414622.htm) | [pathways.md](pathways.md) |
 | F15 | 校国际学院 2026-27 国际本科项目目录；仅供专业清单示例，不直接代表国内招生计划或国内学生收费 | [校官网 PDF](https://english.bjfu.edu.cn/docs/2025-11/4092e0495fdc4546ab0774035f5ab258.pdf) | [pathways.md](pathways.md) |
 
+| F16 | 校《研究生课程学习管理办法》2022-03，选课/成绩/补修/重修；是否被2026新制修订须核 | [校官网 HTML](https://graduate.bjfu.edu.cn/pygl/pyzd/391854.html) | [pathways.md](pathways.md) |
+| F17 | 校研究生学位论文表格与2023版写作指南的下载入口 | [校官网页面](https://graduate.bjfu.edu.cn/xwgl/xwlw/index.html) | [degree.md](degree.md) |
+
 更新或文件失效：先查 [研究生院奖助专栏](https://graduate.bjfu.edu.cn/yjsgzb/jzzl/index.html)、[学位制度](https://graduate.bjfu.edu.cn/xwgl/xwzd/index.html)、[学院研究生通知](https://em.bjfu.edu.cn/rcpy/yjsjy/tzggy/index.htm)、[本科生通知](https://em.bjfu.edu.cn/rcpy/bkjy/tzggb/index.htm)。来源网址属于可访问的官方文件索引，并不等于本仓库已保存原件。
