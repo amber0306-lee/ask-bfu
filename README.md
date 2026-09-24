@@ -36,7 +36,12 @@ A source-aware student guide to Beijing Forestry University.
 
 ## 使用方法
 
-本仓库遵循 Agent Skills 文件结构：入口是 [skills/ask-bfu/SKILL.md](skills/ask-bfu/SKILL.md)，引用资料在相邻的 references 文件夹。将整个 skill 文件夹导入支持 Agent Skills 的 Codex 客户端，并保留目录结构。安装方式随客户端而异；**仅浏览或克隆 GitHub 仓库不会自动安装到 ChatGPT**。安装后可用中文或英文提问，也可以明确说“使用 ask-bfu 查询……”。
+本仓库遵循 Agent Skills 文件结构：入口是 [skills/ask-bfu/SKILL.md](skills/ask-bfu/SKILL.md)，引用资料在相邻的 references 文件夹。试用 Codex 本地版时，将整个 skill 文件夹复制到用户技能目录：
+
+- Windows：`%USERPROFILE%\.codex\skills\ask-bfu`
+- macOS / Linux：`~/.codex/skills/ask-bfu`
+
+复制后确认该目录中有 `SKILL.md` 和 `references/`，再开启新对话，问“使用 ask-bfu 查询北林经管学院……”即可。**仅浏览或克隆 GitHub 仓库不会自动安装到 ChatGPT**；ChatGPT 的技能安装入口与 Codex 本地版可能不同。
 
 - [经管学院参考资料](skills/ask-bfu/references/economics-management.md)
 - [资料与更新规则](skills/ask-bfu/references/source-policy.md)
