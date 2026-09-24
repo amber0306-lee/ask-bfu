@@ -5,67 +5,60 @@
 # Ask BFU · 北林问答
 
 **从校园小事，到培养规定。**  
-A source-aware student guide to Beijing Forestry University.
+A source-aware BFU student Q&A skill.
 
-[试问](#试问--try-it) · [资料维护](#资料如何更新--sources) · [English](#english) · [版本记录](CHANGELOG.md)
+[安装](#安装与试用) · [资料](#文件与来源) · [测试](#五轮自测) · [English](#english) · [更新](CHANGELOG.md)
 
 </div>
 
-> 独立社区项目，非北京林业大学官方服务。首版优先覆盖经济管理学院。制度性问题请核对适用年度的正式文件。
+> 独立社区项目，非北京林业大学官方服务。v0.2.0 聚焦经济管理学院；涉及个人毕业或发放资格以其年级适用的正式文件和审核为准。
 
-## 功能预览
+## 现在可以问什么
 
-| 问题 | 答案策略 | 状态 |
-|:--|:--|:--|
-| 经管学院的招生与培养 | 核对专业、培养层次和年份 | 部分官方资料已收录 |
-| 研究生奖学金 | 引用明确的制度版本 | 已收录一项经管学院细则 |
-| 博士毕业要求 | 先确认入学年份和专业，再查适用文件 | 手册待核对 |
-| 校历、放假与课时 | 以当学年教务通知为准 | 回答时查最新公告 |
-| 失物、修补、回收 | 核实办理路径、地点和核验日期 | 待积累校园经验 |
+| 问法示例 | 参考答案与规则 |
+|:--|:--|
+| “2023级、2025级经管博士每月补贴一样吗？” | 旧版资助合计按10个月为2,300元/发放月；2025级起国家助学金1,500元/发放月，2、8月不发。按身份和学籍判断，岗位津贴另计。 |
+| “经管博士国家奖学金多少钱？” | 30,000元/人·年，是竞争性奖学金，不是生活补贴。 |
+| “我博一发了一篇论文，能毕业吗？” | 对照校级和学院成果路径，核期刊、署名、第一单位、论文关联及所在级培养方案；一篇不能直接推出毕业资格。 |
+| “本科经管转专业、推免去哪看？” | 按当期学院公告和校级方案，不套用往年报名日期。 |
+| “硕士复试、导师、课程重修怎么办？” | 已有2026复试方案、导师名录和2022课程学习办法的有版本事实卡。 |
 
-## 试问 · Try it
+[奖助与补贴](skills/ask-bfu/references/funding.md) · [毕业与学位](skills/ask-bfu/references/degree.md) · [本科至博士路径](skills/ask-bfu/references/pathways.md)
 
-导入 [Ask BFU Skill](skills/ask-bfu/) 后，可以问：
+## 安装与试用
 
-1. “北林经管学院博士国家奖学金多少钱？”
-2. “我是经管学院博一，发了一篇论文，能毕业吗？”
-3. “北林今年什么时候放假？”
-4. “裤子破了，学校周边哪里能缝？”
-
-预期行为：第 1 题给出金额、文件版本和来源；第 2 题一次追问必要信息，并区分奖学金和毕业条件；第 3 题查询当前学年正式通知；第 4 题没有核实商户信息时明确说明，避免编造地址。
-
-## 使用方法
-
-本仓库遵循 Agent Skills 文件结构：入口是 [skills/ask-bfu/SKILL.md](skills/ask-bfu/SKILL.md)，引用资料在相邻的 references 文件夹。试用 Codex 本地版时，将整个 skill 文件夹复制到用户技能目录：
+将 **整个** [skills/ask-bfu](skills/ask-bfu/) 目录复制到本机 Codex 技能目录，保留 SKILL.md 和 references 子目录：
 
 - Windows：`%USERPROFILE%\.codex\skills\ask-bfu`
 - macOS / Linux：`~/.codex/skills/ask-bfu`
 
-复制后确认该目录中有 `SKILL.md` 和 `references/`，再开启新对话，问“使用 ask-bfu 查询北林经管学院……”即可。**仅浏览或克隆 GitHub 仓库不会自动安装到 ChatGPT**；ChatGPT 的技能安装入口与 Codex 本地版可能不同。
+开启新对话，输入“使用 ask-bfu 查询：我是2025级经管博士，每月国家助学金多少？”单纯浏览或克隆 GitHub 页面不会自动安装技能；其他 Agent Skills 客户端按其各自安装方式操作。
 
-- [经管学院参考资料](skills/ask-bfu/references/economics-management.md)
-- [资料与更新规则](skills/ask-bfu/references/source-policy.md)
-- [完整更新记录](CHANGELOG.md)
+## 文件与来源
 
-## 资料如何更新 · Sources
+| 文件 | 作用 |
+|:--|:--|
+| [SKILL.md](skills/ask-bfu/SKILL.md) | 触发条件、问答顺序、版本判定 |
+| [source-index.md](skills/ask-bfu/references/source-index.md) | 17项校院公开文件入口、发布日期和适用范围 |
+| [funding.md](skills/ask-bfu/references/funding.md) | 旧版与2025级起研究生资助、国奖和岗位津贴 |
+| [degree.md](skills/ask-bfu/references/degree.md) | 学术博士/硕士学位成果、经管学院补充路径 |
+| [pathways.md](skills/ask-bfu/references/pathways.md) | 本科转专业/推免、硕士复试、博士招生、课程入口 |
+| [tests/qa-runs.md](tests/qa-runs.md) | 五轮共50道人工模拟提问及来源对应 |
 
-| 资料类别 | 仓库内 | 回答时 |
-|:--|:--|:--|
-| 稳定的校级、院级文件 | 保存核实摘要、官方链接、版本与适用范围 | 问该版本时直接回答 |
-| 校历、招生、放假、评奖通知 | 保存主管部门入口 | 询问当前安排时核对当期原文 |
-| 学生经验与周边商户 | 记录提供者描述及最后核验日期 | 明确属于经验信息 |
-| 非公开的手册 | 核对版本后提炼可公开的条目 | 不直接上传整本原件 |
+**目前仓库保存了版本化事实摘录和官方原文链接，没有官方 PDF 二进制副本。** 学校公开 PDF 包括[2025级起奖助新办法（31页）](https://graduate.bjfu.edu.cn/docs//2026-09/a0aa3251905341438b36b45c0eb2af6e.pdf)及[2022版研究生手册（162页）](https://graduate.bjfu.edu.cn/docs/2022-09/20220928174049112531.pdf)。我们没有把公开发布的研究生手册当作2026年现行所有条款的保证，也不公开上传用户尚未核验版本的个人手册。
 
-**目前仓库没有保存官方 PDF 全文**，经管学院资料页保存了已经核实的结论和原文链接。问“2024版细则规定多少”可直接答；问“今年是否仍是这个标准”才检索更新。
+## 五轮自测
 
-欢迎通过 Issue 反馈错误、失效链接和新的常见问题。请提供可核验的公开依据，不提交学生个人信息或未公开的内部材料。
+按入学、课程、奖助、研究成果、毕业阶段各抽10题，覆盖本科、硕士、博士；[查看完整题目与期望答案](tests/qa-runs.md)。50题均可在已收录事实卡定位并追到官方原件。此结果是人工资料检索与索引核查，尚未在已安装的 Codex 中跑端到端问答。
+
+**目前缺口：** 各专业各入学级培养方案与准确学分、现行本科学生手册、学院每届论文和毕业日程、校园生活商户信息。遇到这些问题 Skill 会指向主管部门并说明尚未核实，不会填造数字。欢迎通过 Issue 提交官方链接和错误报告；请勿上传个人信息或未授权内部文件。
 
 ## English
 
-Ask BFU answers questions about campus life, teaching schedules, admissions, and student rules at Beijing Forestry University. Version 0.1 focuses on the School of Economics and Management. It distinguishes official rules from student experience, checks time-sensitive notices when answering, cites original sources, and asks only for details that change the answer.
+Ask BFU answers Chinese and English questions about student life and academic rules at Beijing Forestry University, starting with the School of Economics and Management. It uses versioned summaries of official sources, distinguishes monthly stipends from annual awards, and checks current notices when the answer depends on this year’s arrangements.
 
-This is an independent community project, not an official university service. Import the [skill directory](skills/ask-bfu/) in an Agent Skills-compatible Codex environment, keeping its reference files together. Ask in Chinese or English.
+Install the entire [skill directory](skills/ask-bfu/) in an Agent Skills compatible Codex environment. The repository links to public university PDFs; it does not currently mirror their binary contents. The [50-question manual source audit](tests/qa-runs.md) documents coverage and remaining gaps.
 
 ---
 
-[MIT License](LICENSE) · v0.1.1
+[MIT License](LICENSE) · v0.2.0
