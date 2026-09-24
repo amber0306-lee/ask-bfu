@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Ask BFU · 北林问答</title>
+<desc id="desc">Minimal green and ivory banner for a Beijing Forestry University student question-answer skill</desc>
+<rect width="1200" height="360" rx="22" fill="#f8f9f4"/>
+<path d="M0 302H1200M0 303H1200" stroke="#d9dfd3" stroke-width="1"/>
+<path d="M870 0V360M871 0V360" stroke="#e0e5dc" stroke-width="1"/>
+<rect x="54" y="58" width="69" height="69" rx="16" fill="#174a37"/>
+<path d="M88 78l-17 27h34L88 78zm0 11v27" fill="none" stroke="#f8f9f4" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="88" cy="77" r="4" fill="#f8f9f4"/>
+<text x="54" y="202" font-family="Inter,Arial,sans-serif" font-size="76" font-weight="750" letter-spacing="-3" fill="#14251b">ASK BFU</text>
+<text x="56" y="258" font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="33" font-weight="600" fill="#355645">北林校园问答</text>
+<text x="56" y="327" font-family="Inter,Arial,sans-serif" font-size="14" letter-spacing="2" fill="#637667">CAMPUS · STUDY · LIFE</text>
+<circle cx="1030" cy="172" r="100" fill="none" stroke="#1c593e" stroke-width="2"/>
+<circle cx="1030" cy="172" r="72" fill="none" stroke="#b5c9b6" stroke-width="2"/>
+<path d="M1030 104l-39 69h78l-39-69zm0 28v94m-27-34h54" fill="none" stroke="#174a37" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="1030" cy="99" r="6" fill="#174a37"/>
+<text x="1030" y="322" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="2" fill="#637667">SOURCE-AWARE ANSWERS</text>
+</svg>
