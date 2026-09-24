@@ -1,0 +1,16 @@
+# 更新记录 · Changelog
+
+版本采用 major.minor.patch：重大结构变化、资料范围扩展、文字或来源修正分别递增。各条事实仍以其记录的文件版本和核验日期为准。
+
+| 版本 | 日期 | 更新 |
+|:--|:--|:--|
+| 0.1.0 | 2026-09-24 | 发布经管学院问答小样；加入中英介绍、问答流程、2024年学院国奖细则与2024年学校专业目录的来源条目；设置动态信息核验规则。研究生手册和本科生手册尚待核对。 |
+
+## 下一步资料扩展
+
+- 读取用户提供的研究生手册，确认出版年份、适用对象和毕业相关条款。
+- 补充本科生现行校级管理文件与经管学院培养资料。
+- 核对当学年校历、课时及校内办事入口。
+- 收集有核验日期的失物、修补、回收与二手书经验。
+
+English: v0.1.0 establishes the question-answer workflow and initial official references. Handbook-based graduation facts are pending source verification.
