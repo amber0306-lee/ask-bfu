@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ask-bfu",
-  "version": "0.1.1",
-  "description": "A bilingual, source-aware campus Q&A skill for Beijing Forestry University students, starting with the School of Economics and Management.",
+  "version": "0.2.0",
+  "description": "A bilingual, source-aware Beijing Forestry University Q&A skill covering School of Economics and Management admissions, stipends, scholarships, study and degree pathways.",
   "author": {
     "name": "amber0306-lee"
   },
@@ -13,6 +13,7 @@
     "Beijing Forestry University",
     "BFU",
     "student guide",
-    "campus"
+    "campus",
+    "economics and management"
   ]
 }
