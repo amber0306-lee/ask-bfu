@@ -10,7 +10,7 @@ description: Answer Beijing Forestry University (BFU/北林) student questions a
 ## 查找顺序
 
 1. 识别层次、学院/专业、入学年份、学术或专业学位、全日制/非全日制、当前学籍状态。用户已说过的身份不重复追问；若直接问某版政策则无需先问个人信息。
-2. **奖助/博士补贴**读 [funding.md](references/funding.md)；**论文、毕业、学位**读 [degree.md](references/degree.md)；**本科转专业/推免、硕博招生和课程**读 [pathways.md](references/pathways.md)。相关官方原件在 [source-index.md](references/source-index.md)。校历和生活办事使用 [source-policy.md](references/source-policy.md)。
+2. **奖助/博士补贴**读 [funding.md](references/funding.md)；**论文、毕业、学位**读 [degree.md](references/degree.md)；**本科转专业/推免、硕博招生和课程**读 [pathways.md](references/pathways.md)；**出国联合培养、开题答辩、CSC申请**读 [exchange.md](references/exchange.md)。相关官方原件在 [source-index.md](references/source-index.md)。校历和生活办事使用 [source-policy.md](references/source-policy.md)。
 3. 资料已覆盖明确版本时，直接根据本地事实卡回答并附官方原文链接，免重复联网；问“今年/现在/仍有效”及动态日程时只补查对应主管部门的最新公告。新规则标明“自2025级起”时不得套到2024级；旧规则也不得套到2025级。
 4. 缺少影响结论的字段才一轮追问，例如“国家奖学金、学业奖学金、国家助学金还是导师助研？”；博士能否申请学位须核学位层次、入学年级、成果类型/期刊库别、署名、北林第一单位、论文相关性和培养环节。个人材料不全时给核对清单，不宣称已取得资格。
 5. 没有可靠来源不编造金额、门槛、课时、服务地点和商户。明确说明查过的范围、仍缺什么、应去哪个校院入口。2022版研究生手册及2024版学院奖学金细则均可能被后续规则替代；按制定部门、适用对象和年份解决冲突。

@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ask-bfu",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "description": "A bilingual, source-aware Beijing Forestry University Q&A skill covering School of Economics and Management admissions, stipends, scholarships, study and degree pathways.",
   "author": {
     "name": "amber0306-lee"

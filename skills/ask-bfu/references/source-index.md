@@ -1,6 +1,6 @@
 # 官方资料索引 · 经管学院
 
-核验：2026-09-24。这里是本 Skill 自行整理的事实摘录与官方原件入口；官方 PDF 原件仍由学校网站托管，仓库目前没有 PDF 字节副本。涉及新生、发放、评奖时先用入学级别选版本，再核对文件是否更新。
+核验：2026-09-25。这里是本 Skill 自行整理的25项官方资料的事实摘录与官方原件入口；官方 PDF 原件仍由学校网站托管，仓库目前没有 PDF 字节副本。涉及新生、发放、评奖时先用入学级别选版本，再核对文件是否更新。
 
 | ID | 文件、时间、适用对象 | 原件 | 本地摘录 |
 |:--|:--|:--|:--|
@@ -24,5 +24,12 @@
 | F17 | 校研究生学位论文表格与2023版写作指南的下载入口 | [校官网页面](https://graduate.bjfu.edu.cn/xwgl/xwlw/index.html) | [degree.md](degree.md) |
 
 | F18 | 经管学院农林经济管理博士2026第二轮复试通知；仅限该轮安排 | [学院 HTML](https://em.bjfu.edu.cn/rcpy/yjsjy/tzggy/5e16bc78b26446e18a00568e85aefedd.htm) | [pathways.md](pathways.md) |
+| F19 | 学校《硕博连读研究生选拔办法》，北林研发〔2023〕33号；2025-12官网PDF上载 | [校官网 PDF](https://graduate.bjfu.edu.cn/docs//2025-12/b952f81387074396a51ce17c116827ed.pdf) | [pathways.md](pathways.md) |
+| F20 | 学校《研究生请假管理办法》，北林研工发〔2012〕17号；收录于2022版研究生手册第110页 | [校官网 PDF（手册162页）](https://graduate.bjfu.edu.cn/docs/2022-09/20220928174049112531.pdf) | [pathways.md](pathways.md) |
+| F21 | 学校《研究生出国（境）管理规定》；收录于2022版研究生手册第113–114页 | [校官网 PDF（手册162页）](https://graduate.bjfu.edu.cn/docs/2022-09/20220928174049112531.pdf) | [exchange.md](exchange.md) |
+| F22 | 学校《学术型研究生论文开题报告的规定》，北林研办发〔2013〕19号（2020年6月修订）；收录于2022版研究生手册第34–37页 | [校官网 PDF（手册162页）](https://graduate.bjfu.edu.cn/docs/2022-09/20220928174049112531.pdf) | [exchange.md](exchange.md) |
+| F23 | 国家留学基金委 2026年国家留学基金资助出国留学人员选派指南、2026年创新型人才国际合作培养项目指南；联合培养博士6–24个月 | [国家留学网 csc.edu.cn](https://www.csc.edu.cn) | [exchange.md](exchange.md) |
+| F24 | 学校《研究生国内外学术交流资助管理办法》，北林研办发〔2013〕23号（2019年7月修订）；收录于2022版研究生手册第53页 | [校官网 PDF（手册162页）](https://graduate.bjfu.edu.cn/docs/2022-09/20220928174049112531.pdf) | [exchange.md](exchange.md) |
+| F25 | 学校《研究生管理规定》：第二十条转导师、第三十六条申请退学；收录于2022版研究生手册第12、14页 | [校官网 PDF（手册162页）](https://graduate.bjfu.edu.cn/docs/2022-09/20220928174049112531.pdf) | [pathways.md](pathways.md) |
 
 更新或文件失效：先查 [研究生院奖助专栏](https://graduate.bjfu.edu.cn/yjsgzb/jzzl/index.html)、[学位制度](https://graduate.bjfu.edu.cn/xwgl/xwzd/index.html)、[学院研究生通知](https://em.bjfu.edu.cn/rcpy/yjsjy/tzggy/index.htm)、[本科生通知](https://em.bjfu.edu.cn/rcpy/bkjy/tzggb/index.htm)。来源网址属于可访问的官方文件索引，并不等于本仓库已保存原件。
